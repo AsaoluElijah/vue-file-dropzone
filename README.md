@@ -2,6 +2,8 @@
 
 Drag-and-drop file upload component with Vue.js
 
+![Drop zone output](./dnd.gif)
+
 ## Project setup
 
 ```bash
